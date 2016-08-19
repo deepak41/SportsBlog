@@ -1,3 +1,3 @@
 *.pyc
-app/bloglib/dbconf.py
+app/bloglib/dbconfig.py
 app/routes.py
